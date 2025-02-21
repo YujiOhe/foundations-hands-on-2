@@ -1,2 +1,1 @@
-# foundations-hands-on-1
-## テスト
+# foundations-hands-on-2
